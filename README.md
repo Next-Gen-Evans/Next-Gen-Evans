@@ -42,7 +42,7 @@ My development philosophy is rooted in building maintainable and scalable soluti
 - **Cross-Platform & Secure Development**
 - **Developer Tools & Productivity**
 - **Open Source & Cybertech Community**
-
+- **Emerging Tech & Future-Ready Development**
 
 ## 🛠️ Technical Stack  
 
