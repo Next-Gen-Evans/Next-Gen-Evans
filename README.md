@@ -78,7 +78,8 @@ My development philosophy is rooted in building maintainable and scalable soluti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Next-Gen-Evans&theme=dark&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=4ECDC4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Evans's+Code+Statistics"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Next-Gen-Evans&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
