@@ -83,8 +83,11 @@ My development philosophy is rooted in building maintainable and scalable soluti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Evans&theme=github-compact&hide_border=true&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=4ECDC4" alt="Contribution Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Next-Gen-Evans&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+
 </div>
+
 
 ---
 
@@ -109,6 +112,22 @@ src="https://img.shields.io/github/followers/Next-Gen-Evans?logo=github&style=fo
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Next-Gen-Evans&label=Stars&query=$.stars&color=brightgreen&logo=github)
 
 ---
+
+## 📊 **IMPACT METRICS**
+
+<div align="center">
+
+| 🚀 **Metric** | 📈 **Value** | 📝 **Details** |
+|:---:|:---:|:---:|
+| **Ready Apps** | `3` | Production-ready mobile & web applications |
+| **Lines of Code** | `10K+` | Across Flutter, Python, web and Kotlin projects |
+| **GitHub Commits** | `20+` | Consistent daily and active coding streak |
+| **Problem Solving** | `100+` | Trackled via LeetCode & competitive programming |
+| **AI Models Trained** | `3` | ML models for recommendation & prediction |
+| **Coffee Consumed** | `∞` | The endless source of developer productivity ☕ |
+
+</div>
+
 
 ### 📫 **Connect with Me**
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BiggyBully?t=D-PcEJRNHMhnhauEL3BXFg&s=09)
