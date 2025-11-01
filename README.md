@@ -163,6 +163,14 @@ src="https://img.shields.io/github/followers/Next-Gen-Evans?logo=github&style=fo
 
 ---
 
+## Welcome to the Interactive Guestbook! 🚀
+
+### Feel free to leave your mark 😉 by clicking the button below and dropping a message! 💬
+
+[![Guestbook🧾🤗](https://img.shields.io/badge/GUESTBOOK-%F0%9F%93%9D-yellow)](https://github.com/Next-Gen-Evans/Next-Gen-Evans/discussions/1)
+
+---
+
 <p align="center"><a href="https://github.com/Next_Gen_Evans">Evans Mutharimi Buongo</a></p>
 
 
