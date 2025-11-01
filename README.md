@@ -126,8 +126,32 @@ src="https://img.shields.io/github/followers/Next-Gen-Evans?logo=github&style=fo
 | **AI Models Trained** | `3` | ML models for recommendation & prediction |
 | **Coffee Consumed** | `∞` | The endless source of developer productivity ☕ |
 
+</div
+
+---
+## 💼 **What I Bring to Your Team**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎯 <b>Technical Excellence</b></h3>
+        <p>• Performance optimization specialist<br/>
+        • AI/ML integration in production apps<br/>
+        • Clean architecture & best practices<br/>
+        • Cross-platform mobile development expertise</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🚀 <b>Innovation Mindset</b></h3>
+        <p>• Cutting-edge technology adoption<br/>
+        • Creative problem-solving & adaptability<br/>
+        • User-focused product design<br/>
+        • Continuous learning & innovation</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
 ### 📫 **Connect with Me**
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BiggyBully?t=D-PcEJRNHMhnhauEL3BXFg&s=09)
