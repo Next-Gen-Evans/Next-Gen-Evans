@@ -52,7 +52,7 @@ My development philosophy is rooted in building maintainable and scalable soluti
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,dart,flutter&theme=dark" />
 
 ### Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,typescript,css,nodejs&theme=dark" />
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,firebase,mysql,tailwind&theme=dark" />
