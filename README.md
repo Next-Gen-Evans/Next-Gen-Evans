@@ -162,6 +162,9 @@ src="https://img.shields.io/github/followers/Next-Gen-Evans?logo=github&style=fo
 </div>
 
 ---
+<div align="center">
+
+### 🌟 **Thanks for Visiting!** 🌟
 
 <p align="center"><a href="https://github.com/Next_Gen_Evans">Evans Mutharimi Buongo</a></p>
 <p align="center">❤</a></p>
