@@ -71,15 +71,28 @@ My development philosophy is rooted in building maintainable and scalable soluti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9&icon_color=4ECDC4" alt="GitHub Statistics"/>
+<!-- GitHub overall stats (radical theme) -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Evans&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9" alt="Most Used Languages"/>
+<!-- Streak (use the Vercel endpoint you tested) -->
+<img width="49%" src="https://streak-stats.vercel.app/?user=Next-Gen-Evans&theme=radical&hide_border=true&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&border_radius=10" alt="GitHub Streak" />
 
-</div>
+<table>
+<tr>
+<td width="33%">
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Evans's+Code+Statistics"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Next-Gen-Evans&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Evans&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Next-Gen-Evans&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+</p>
+
 </div>
 
 <div align="center">
