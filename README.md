@@ -81,7 +81,8 @@ My development philosophy is rooted in building maintainable and scalable soluti
 <tr>
 <td width="33%">
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Evans&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 
 
