@@ -123,6 +123,7 @@ My development philosophy is rooted in building maintainable and scalable soluti
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Next-Gen-Evans&color=blue&style=flat)
+
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Next-Gen-Evans&label=Stars&query=$.stars&color=brightgreen&logo=github)
 
 ---
