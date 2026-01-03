@@ -81,11 +81,7 @@ My development philosophy is rooted in building maintainable and scalable soluti
 <tr>
 <td width="33%">
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-Gen-Evans&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
-
-
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Next-Gen-Evans&theme=transparent" />
 
 </td>
 <td width="33%">
