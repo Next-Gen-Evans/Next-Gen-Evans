@@ -68,30 +68,13 @@ My development philosophy is rooted in building maintainable and scalable soluti
 ---
 
 ## GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Next-Gen-Evans&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
 
 <div align="center">
-
-<!-- GitHub overall stats (radical theme) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff87&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-
-<!-- Streak (use the Vercel endpoint you tested) -->
-<img width="49%" src="https://streak-stats.vercel.app/?user=Next-Gen-Evans&theme=radical&hide_border=true&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&border_radius=10" alt="GitHub Streak" />
-
-<table>
-<tr>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Next-Gen-Evans&theme=transparent" />
-
-</td>
-<td width="33%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Next-Gen-Evans&theme=transparent&utc_offset=5.5" />
-
-</td>
-</tr>
-</table>
-</p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Next-Gen-Evans&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Next-Gen-Evans&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 </div>
 
