@@ -1,6 +1,5 @@
 EVANS MUTHARIMI BUONGO
 
-
 <!-- 🔹 Wave Banner (Your Name) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
